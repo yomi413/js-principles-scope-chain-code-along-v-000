@@ -17,7 +17,7 @@ function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'nagging nellie';
 }
 
-function reassignLeastFavorite() {
+function attemptTwoFavoriteCustomers() {
 
 }
 
