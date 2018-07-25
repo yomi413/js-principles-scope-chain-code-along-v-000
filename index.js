@@ -14,7 +14,7 @@ function overWriteBestCustomer() {
 }
 
 function changeLeastFavoriteCustomer() {
-  
+  leastFavoriteCustomer = 'nagging nellie';
 }
 
 function reassignLeastFavorite() {
